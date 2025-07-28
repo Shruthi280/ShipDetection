@@ -1,4 +1,4 @@
-🛳️ SHIP DETECTION USING SATELLITE IMAGERY:
+🛳️ SHIP DETECTION USING SATELLITE IMAGERY
 This project focuses on detecting ships from satellite images using advanced image segmentation techniques. It utilizes the Airbus Ship Detection Challenge dataset and implements a U-Net based segmentation model to accurately identify and segment ships in high-resolution satellite images.
 
 🚀 Why Use U-Net for Ship Detection?
